@@ -17,7 +17,7 @@
 7. Project Site
    - A Project Site is linked to a specific project or repository
    - The repository can have **any** name (except `<username>.github.io`)
-   - The URL will be `https://<your-username>.github.io/<repo-name>/` (E.g. `https://srushti-ai.github.io/abhyas/`)
+   - The URL will be `https://<your-username>.github.io/<repo-name>/` (E.g. `https://srushti-ai.github.io/github-pages/`)
    - You can have **multiple** project sites.
    - The **index.html** file must be in the root of the repository.
    - Use Case - Hosting Documentation, apps, or project-specific sites.
